@@ -1,0 +1,7 @@
+Area,Crop,Total,Delivered,Status,Farmer,Phone,HarvestDate,DeliveryDate
+"North Area","Paddy",30,30,"Delivered","Murugan","1234567898","2026-10-13",""
+"South Area","Vegetables",25,15,"In Progress","selvam","9876556789","2026-10-13",""
+"East Area","Coconut",20,19,"In Progress","Kumar","","2026-10-13",""
+"West Area","Paddy",45,45,"Delivered","Meena","","2026-10-13",""
+"madurai","seeds",45,23,"In Progress","yuva","123443215","2026-10-13",""
+"tiruppur","corn",16,10,"In Progress","YUva","456378327","2026-10-16","2026-11-1"
